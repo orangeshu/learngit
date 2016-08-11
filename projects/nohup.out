@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "tcp_thsensor_data_sent.py", line 100, in <module>
+    time.sleep(5)
+KeyboardInterrupt
+the average is 27.375000
+Succeed in sending "0001000141db0000(1, 1, 27.375)" to ('115.28.150.131', 20199)
+the average is 27.437000
+Succeed in sending "0001000141db7efa(1, 1, 27.437)" to ('115.28.150.131', 20199)
+the average is 27.437000
+Succeed in sending "0001000141db7efa(1, 1, 27.437)" to ('115.28.150.131', 20199)
+the average is 27.437000
+Succeed in sending "0001000141db7efa(1, 1, 27.437)" to ('115.28.150.131', 20199)
+Traceback (most recent call last):
+  File "tcp_thsensor_data_sent.py", line 100, in <module>
+    time.sleep(2)
+KeyboardInterrupt
